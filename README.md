@@ -1,7 +1,7 @@
 # NFT-preview-card-component
 
 
-<p> O projeto foi desenvolvido pela plataforma <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U" target="_blank"> da Front end mentor</a>
+<p> O projeto foi desenvolvido pela plataforma <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U" target="_blank"> Front end mentor</a>
 
  a proposta do site é conceder varios desafios para que voce possa ir treinando suas skills 
 
